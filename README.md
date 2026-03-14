@@ -1,5 +1,5 @@
 <h1 align="center">Heyy 👋, I'm Bismaya Guruprasad Panda</h1>
-<h3 align="center">Aspiring Cybersecurity | Passionate about Coding & Open Source | C | Java | Python | Linux</h3>
+<h3 align="center">Cybersecurity Enthusiast | Passionate about Coding & Open Source | C | Java | Python | Linux</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bismaya-guruprasad-panda-8741&label=Profile%20views&color=0e75b6&style=flat" alt="bismaya-guruprasad-panda-8741" /> </p>
 
