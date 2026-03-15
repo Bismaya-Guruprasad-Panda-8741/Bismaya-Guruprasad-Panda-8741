@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bismaya-guruprasad-panda-8741" alt="bismaya-guruprasad-panda-8741" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science & Engineering**
+- 🌱 I’m currently learning **Computer Science & Engineering.**
 
 - 📫 How to reach me **bismayabismaya04@gmail.com**
 
