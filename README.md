@@ -1,21 +1,33 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
+<!-- Capsule Render Header Wave — no text, no "A Tag" artifact -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&fontSize=0&animation=fadeIn" width="100%"/>
+
+<!-- STATIC Name — always visible, never animated -->
+<h1>Bismaya Guruprasad Panda</h1>
+
+<!-- DYNAMIC 2nd Line — only this line changes -->
 <a href="https://github.com/Bismaya-Guruprasad-Panda-8741">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bismaya+Panda;Cybersecurity+Enthusiast+%F0%9F%94%90;Passionate+Coder+%F0%9F%92%BB;Open+Source+Advocate+%F0%9F%8C%8D;Linux+Power+User+%F0%9F%90%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Passionate+Coder+%F0%9F%92%BB;Open+Source+Advocate+%F0%9F%8C%8D;C+%7C+Java+%7C+Python+Developer;Linux+Power+User+%F0%9F%90%A7;Ethical+Hacker+in+the+Making+%F0%9F%95%B5%EF%B8%8F;CTF+Enthusiast+%F0%9F%9A%A9;Creative+Tech+Explorer+%F0%9F%8E%A8" alt="Dynamic Tagline" />
 </a>
 
 <br/>
 
-<!-- Dynamic Bio Typing -->
 <a href="https://github.com/Bismaya-Guruprasad-Panda-8741">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&width=700&lines=Cybersecurity+Enthusiast+%7C+Passionate+about+Coding;Open+Source+Contributor+%7C+C+%7C+Java+%7C+Python;Exploring+the+Art+of+Ethical+Hacking+%F0%9F%94%8D;Linux+is+not+just+an+OS%2C+it%27s+a+Lifestyle+%F0%9F%90%A7;Security+First%2C+Code+Always+%F0%9F%9B%A1%EF%B8%8F" alt="Dynamic Bio" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bismaya-guruprasad-panda/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:bismayabismaya04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Bismaya-Guruprasad-Panda-8741&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -41,7 +53,7 @@ class Bismaya:
 - 🐧 A proud **Linux enthusiast** who breathes terminal commands
 - 🎯 Always learning, always building, always breaking (ethically)
 - 🎨 Creative side: **Photoshop** for visuals, **DaVinci Resolve** for video editing
-- 📬 Reach me: **bismayabismaya04@gmail.com**
+- 📬 Reach me at: **bismayabismaya04@gmail.com**
 
 ---
 
@@ -96,7 +108,7 @@ class Bismaya:
 ### 🎨 Creative Tools
 
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
 </a>
 &nbsp;
 <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
@@ -116,7 +128,7 @@ class Bismaya:
 | 🖥️ **Languages** | C · Java · Python |
 | 🌐 **Web** | HTML5 · CSS3 |
 | 🔧 **Embedded** | Arduino |
-| 🐧 **Systems** | Linux (Debian/Arch/Kali) |
+| 🐧 **Systems** | Linux (Debian / Arch / Kali) |
 | 🔐 **Security** | Network Security · CTF · Ethical Hacking |
 | 🎨 **Creative** | Photoshop · DaVinci Resolve |
 | 📦 **Tools** | Git · GitHub · VS Code · Vim |
@@ -129,15 +141,13 @@ class Bismaya:
 
 <div align="center">
 
-<!-- Replace these with your actual project repos -->
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bismaya-Guruprasad-Panda-8741&repo=YOUR_REPO_1&theme=tokyonight&border_color=00D4FF)](https://github.com/Bismaya-Guruprasad-Panda-8741)
-
+&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bismaya-Guruprasad-Panda-8741&repo=YOUR_REPO_2&theme=tokyonight&border_color=FF6B6B)](https://github.com/Bismaya-Guruprasad-Panda-8741)
 
 </div>
 
-> 💡 *Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names above.*
+> 💡 *Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names.*
 
 ---
 
@@ -145,13 +155,17 @@ class Bismaya:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bismaya-Guruprasad-Panda-8741&show_icons=true&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&hide_border=false&count_private=true" width="49%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bismaya-Guruprasad-Panda-8741&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&text_color=FFFFFF&bg_color=0D1117&hide_border=false" width="49%" alt="Top Languages"/>
+<img height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=Bismaya-Guruprasad-Panda-8741&show_icons=true&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=1800"
+  alt="GitHub Stats"
+/>
+&nbsp;
+<img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bismaya-Guruprasad-Panda-8741&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800"
+  alt="Top Languages"
+/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -159,7 +173,11 @@ class Bismaya:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Bismaya-Guruprasad-Panda-8741&theme=tokyonight&border=00D4FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=AAAAAA&dates=888888&background=0D1117" width="70%" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com/?user=Bismaya-Guruprasad-Panda-8741&theme=tokyonight-duo&border=00D4FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=AAAAAA&dates=888888&background=0D1117&stroke=00D4FF"
+  width="65%"
+  alt="GitHub Streak Stats"
+/>
 
 </div>
 
@@ -169,7 +187,27 @@ class Bismaya:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bismaya-Guruprasad-Panda-8741&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D4FF&hide_border=false&border_color=00D4FF" width="100%" alt="Contribution Graph"/>
+<!-- GitHub-style snake eating your real contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img
+    alt="GitHub Contribution Grid Snake"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
+</picture>
+
+<br/>
+
+<!-- Heatmap activity graph — GitHub-style green squares -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Bismaya-Guruprasad-Panda-8741&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&area_color=003D4D&hide_border=false&border_color=00D4FF&custom_title=Bismaya%27s%20Contribution%20Graph&radius=4"
+  width="100%"
+  alt="Contribution Activity Graph"
+/>
 
 </div>
 
@@ -179,7 +217,11 @@ class Bismaya:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bismaya-Guruprasad-Panda-8741&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" width="100%" alt="Trophies"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Bismaya-Guruprasad-Panda-8741&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4&row=2"
+  width="90%"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
@@ -200,10 +242,6 @@ class Bismaya:
 <a href="mailto:bismayabismaya04@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bismaya-Guruprasad-Panda-8741&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -229,24 +267,11 @@ class Bismaya:
 - 🎨 Creating digital art in **Photoshop**
 - ☕ Fueling late-night coding sessions with strong coffee
 
-<br/>
-
-<div align="center">
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0&animation=fadeIn" width="100%"/>
 
 *⭐ Star some repos if you find them interesting — it means a lot! 🙏*
 
