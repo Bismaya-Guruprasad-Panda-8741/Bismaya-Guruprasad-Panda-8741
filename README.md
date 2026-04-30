@@ -1,33 +1,19 @@
 <div align="center">
 
-<!-- Capsule Render Header Wave — no text, no "A Tag" artifact -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&fontSize=0&animation=fadeIn" width="100%"/>
+<!-- Animated Header with Name & Tagline baked in -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Bismaya%20Guruprasad%20Panda&fontSize=46&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20%7C%20Ethical%20Hacker%20%7C%20Open%20Source%20Advocate&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
-<!-- STATIC Name — always visible, never animated -->
-<h1>Bismaya Guruprasad Panda</h1>
-
-<!-- DYNAMIC 2nd Line — only this line changes -->
-<a href="https://github.com/Bismaya-Guruprasad-Panda-8741">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Passionate+Coder+%F0%9F%92%BB;Open+Source+Advocate+%F0%9F%8C%8D;C+%7C+Java+%7C+Python+Developer;Linux+Power+User+%F0%9F%90%A7;Ethical+Hacker+in+the+Making+%F0%9F%95%B5%EF%B8%8F;CTF+Enthusiast+%F0%9F%9A%A9;Creative+Tech+Explorer+%F0%9F%8E%A8" alt="Dynamic Tagline" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%F0%9F%94%90+Cybersecurity+Enthusiast+%26+Developer;%F0%9F%90%A7+Linux+Power+User+%7C+Kali+%7C+Arch+%7C+Debian;%F0%9F%9A%A9+CTF+Challenger+%E2%80%94+Hacking+for+Good!;%F0%9F%92%BB+C+%7C+Java+%7C+Python+%7C+Arduino+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Bismaya-Guruprasad-Panda-8741">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/bismaya-guruprasad-panda/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:bismayabismaya04@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bismaya-Guruprasad-Panda-8741&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bismaya-guruprasad-panda/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bismayabismaya04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bismaya-Guruprasad-Panda-8741)
+![Profile Views](https://komarev.com/ghpvc/?username=Bismaya-Guruprasad-Panda-8741&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -35,180 +21,141 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class Bismaya:
-    name       = "Bismaya Guruprasad Panda"
-    role       = "Cybersecurity Enthusiast & Developer"
-    location   = "India 🇮🇳"
-    languages  = ["C", "Java", "Python"]
-    interests  = ["Cybersecurity", "Open Source", "Linux", "Creative Tech"]
-    currently  = "Exploring the depths of ethical hacking & secure systems"
-    fun_fact   = "I debug with coffee ☕ and solve CTFs for fun 🚩"
+<table>
+<tr>
+<td width="55%">
+
+```bash
+┌──(bismaya㉿kali)-[~]
+└─$ whoami
+
+  Name     : Bismaya Guruprasad Panda
+  Role     : Cybersecurity Enthusiast & Developer
+  Location : India 🇮🇳
+  Focus    :
+    - Ethical Hacking & Penetration Testing
+    - Network Security & CTF Challenges
+    - Embedded Systems & Arduino Projects
+    - Creative Tech (Photoshop · DaVinci Resolve)
+  Status   : Learning. Building. Breaking. 🔐
+  Fun Fact : I debug with coffee ☕ & solve
+             CTFs for fun 🚩
 ```
 
-<br/>
+</td>
+<td width="45%" align="center">
 
-- 🔐 Deeply passionate about **Cybersecurity** — from network security to ethical hacking
-- 💡 I love turning ideas into **real-world open source projects**
-- 🐧 A proud **Linux enthusiast** who breathes terminal commands
-- 🎯 Always learning, always building, always breaking (ethically)
-- 🎨 Creative side: **Photoshop** for visuals, **DaVinci Resolve** for video editing
-- 📬 Reach me at: **bismayabismaya04@gmail.com**
+### 🎯 Quick Facts
+- 🔐 Passionate about **Ethical Hacking**
+- 🐧 Linux distro-hopper (Kali / Arch / Debian)
+- 💡 Loves **Open Source** projects
+- 🎨 Creative with **Photoshop** & **DaVinci Resolve**
+- 📬 **bismayabismaya04@gmail.com**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Languages & Tools
+## 💡 What I Bring
 
 <div align="center">
 
-### 💻 Programming Languages
+| 🛡️ Skill | 💬 Description |
+|:---|:---|
+| 🔐 Cybersecurity | Ethical hacking, CTF challenges & network security |
+| 💻 Development | C · Java · Python · HTML5 · CSS3 projects |
+| 🚀 Embedded Systems | Arduino-based hardware & secure control systems |
+| 🎨 Creative Tech | Digital art with Photoshop & cinematic video editing |
+| 🐧 Linux Mastery | Power user across Kali, Arch & Debian environments |
 
-<a href="https://www.learn-c.org/" target="_blank">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-</a>
-&nbsp;
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</a>
-&nbsp;
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</a>
+</div>
 
-<br/><br/>
+---
 
-### 🌐 Web Technologies
+## 🛠️ Tech Stack & Tools
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<div align="center">
+
+### 🔐 Security & Networking
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python&theme=dark" />
 </a>
 
-<br/><br/>
+> 🛡️ Kali Linux &nbsp;|&nbsp; Wireshark &nbsp;|&nbsp; Nmap &nbsp;|&nbsp; Metasploit &nbsp;|&nbsp; Burp Suite &nbsp;|&nbsp; CTF Tools
 
-### ⚙️ Hardware & Embedded
-
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+### 💻 Programming & Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css&theme=dark" />
 </a>
 
-<br/><br/>
-
-### 🖥️ OS & Environment
-
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</a>
-
-<br/><br/>
-
-### 🎨 Creative Tools
-
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
-</a>
-&nbsp;
-<a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve"/>
+### ⚙️ Embedded & Creative Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,vim&theme=dark" />
 </a>
 
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## 🎯 Featured Projects
+
+```text
+🚀 Dual-MCU Rocket System    ██████████████  100%  - Web-Enabled Secure Remote Ignition Control
+🌐 Kitchen Website           ██████████████  100%  - Frontend Web Design with HTML & CSS
+🧮 Calculator                ██████████████  100%  - Clean Calculator App
+🔐 CyberCrime Awareness      ██████████████  100%  - HTML/CSS Cybercrime Awareness Project
+🎮 Tic-Tac-Toe (Flask)       ██████████████  100%  - Python Flask Web Game with Dashboard
+🕵️ Next Security Project     ░░░░░░░░░░░░░░    0%  - Coming Soon...
+```
+
+---
+
+## 🔝 Top Repositories
 
 <div align="center">
 
-| Category | Technologies |
-|----------|-------------|
-| 🖥️ **Languages** | C · Java · Python |
-| 🌐 **Web** | HTML5 · CSS3 |
-| 🔧 **Embedded** | Arduino |
-| 🐧 **Systems** | Linux (Debian / Arch / Kali) |
-| 🔐 **Security** | Network Security · CTF · Ethical Hacking |
-| 🎨 **Creative** | Photoshop · DaVinci Resolve |
-| 📦 **Tools** | Git · GitHub · VS Code · Vim |
+| 📦 Repository | 📝 Description | 🛠️ Tech Stack |
+|:---|:---|:---|
+| [🚀 **Dual-MCU-Rocket-Ignition-System**](https://github.com/Bismaya-Guruprasad-Panda-8741/A-Web-Enabled-Dual-MCU-Secure-Remote-Ignition-Control-for-Model-Rocketry) | Web-enabled dual-MCU secure remote ignition control for model rocketry | C++ · ESP32 · Arduino |
+| [🌐 **KITCHEN-website**](https://github.com/Bismaya-Guruprasad-Panda-8741/KITCHEN-website) | A clean frontend kitchen website page | HTML · CSS |
+| [🎮 **Tic-Tac-Toe (Flask)**](https://github.com/Bismaya-Guruprasad-Panda-8741/Tic-Tac-Toe-using-python-Flask-) | Tic Tac Toe web game with backend–frontend integration | Python · Flask · HTML/CSS |
+| [🔐 **CyberCrime-Awareness**](https://github.com/Bismaya-Guruprasad-Panda-8741/CyberCrime-Awareness-project) | Cybercrime awareness project for digital safety education | HTML · CSS |
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 📊 GitHub Analytics
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bismaya-Guruprasad-Panda-8741&repo=YOUR_REPO_1&theme=tokyonight&border_color=00D4FF)](https://github.com/Bismaya-Guruprasad-Panda-8741)
-&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bismaya-Guruprasad-Panda-8741&repo=YOUR_REPO_2&theme=tokyonight&border_color=FF6B6B)](https://github.com/Bismaya-Guruprasad-Panda-8741)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bismaya-Guruprasad-Panda-8741&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=00ff41" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bismaya-Guruprasad-Panda-8741&theme=chartreuse-dark&hide_border=true" />
 </div>
 
-> 💡 *Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names.*
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=Bismaya-Guruprasad-Panda-8741&show_icons=true&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=1800"
-  alt="GitHub Stats"
-/>
-&nbsp;
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bismaya-Guruprasad-Panda-8741&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800"
-  alt="Top Languages"
-/>
-
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bismaya-Guruprasad-Panda-8741&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
 </div>
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 📈 Contribution Activity
 
 <div align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=Bismaya-Guruprasad-Panda-8741&theme=tokyonight-duo&border=00D4FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=AAAAAA&dates=888888&background=0D1117&stroke=00D4FF"
-  width="65%"
-  alt="GitHub Streak Stats"
-/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bismaya-Guruprasad-Panda-8741&theme=react&hide_border=true&area=true&color=00ff41&line=00ff41&point=ffffff&custom_title=Bismaya's%20Contribution%20Graph" width="95%"/>
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<!-- GitHub-style snake eating your real contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img
-    alt="GitHub Contribution Grid Snake"
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-  />
-</picture>
-
-<br/>
-
-<!-- Heatmap activity graph — GitHub-style green squares -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Bismaya-Guruprasad-Panda-8741&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&area_color=003D4D&hide_border=false&border_color=00D4FF&custom_title=Bismaya%27s%20Contribution%20Graph&radius=4"
-  width="100%"
-  alt="Contribution Activity Graph"
-/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bismaya-Guruprasad-Panda-8741/Bismaya-Guruprasad-Panda-8741/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bismaya-Guruprasad-Panda-8741/Bismaya-Guruprasad-Panda-8741/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bismaya-Guruprasad-Panda-8741/Bismaya-Guruprasad-Panda-8741/output/github-snake-dark.svg" width="90%"/>
+  </picture>
 </div>
 
 ---
@@ -216,32 +163,18 @@ class Bismaya:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Bismaya-Guruprasad-Panda-8741&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4&row=2"
-  width="90%"
-  alt="GitHub Trophies"
-/>
-
+  <img src="https://github-trophies.vercel.app/?username=Bismaya-Guruprasad-Panda-8741&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="95%"/>
 </div>
 
 ---
 
-## 🤝 Connect with Me
-
 <div align="center">
 
-<a href="https://github.com/Bismaya-Guruprasad-Panda-8741" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/bismaya-guruprasad-panda/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:bismayabismaya04@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+### ✍️ Hacker Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+> *"Security is not a product, but a process."* — **Bruce Schneier**
 
 </div>
 
@@ -253,8 +186,8 @@ class Bismaya:
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  "Security is not a product, but a process."            ║
-║                              — Bruce Schneier            ║
+║  "The quieter you become, the more you are able to      ║
+║   hear."                         — Kali Linux           ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -262,7 +195,7 @@ class Bismaya:
 
 **🎯 Hobbies & Interests:**
 - 🚩 Solving **CTF Challenges** on weekends
-- 🐧 Distro-hopping on Linux (I've tried them all 😄)
+- 🐧 Distro-hopping on Linux (Kali → Arch → repeat 😄)
 - 🎬 Editing cinematic videos with **DaVinci Resolve**
 - 🎨 Creating digital art in **Photoshop**
 - ☕ Fueling late-night coding sessions with strong coffee
@@ -271,8 +204,8 @@ class Bismaya:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&fontColor=00ff41&animation=twinkling" width="100%"/>
 
-*⭐ Star some repos if you find them interesting — it means a lot! 🙏*
+**🔐 Securing the digital world — one line of code at a time.**
 
 </div>
