@@ -102,6 +102,7 @@
 ## 🎯 Featured Projects
 
 ```text
+🖱️ Virtula Mouse             ██████████████  100%  - Control your PC with just your hand!
 🚀 Dual-MCU Rocket System    ██████████████  100%  - Web-Enabled Secure Remote Ignition Control
 🌐 Kitchen Website           ██████████████  100%  - Frontend Web Design with HTML & CSS
 🧮 Calculator                ██████████████  100%  - Clean Calculator App
