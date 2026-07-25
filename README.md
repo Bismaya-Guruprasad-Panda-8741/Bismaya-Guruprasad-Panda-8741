@@ -109,7 +109,26 @@
 🎮 Tic-Tac-Toe (Flask)       ██████████████  100%  - Python Flask Web Game with Dashboard
 🕵️ Next Security Project     ░░░░░░░░░░░░░░    0%  - Coming Soon...
 ```
+*************----*************
+<div align="center">
+  ### 🖱️ AI-Powered Virtual Mouse Using Hand Gesture Recognition
 
+A real-time virtual mouse controlled using hand gestures, developed collaboratively with Himansini Panda.
+
+**Technologies:**
+- Python
+- OpenCV
+- MediaPipe
+- PyAutoGUI
+
+🔗 **Project Repository:** [View on GitHub](YOUR_ORGANIZATION_REPOSITORY_LINK)
+
+👥 **Project:** Bismaya Guruprasad Panda & Himansini Panda
+
+
+  
+</div>
+*************----*************
 ---
 
 ## 🔝 Top Repositories
