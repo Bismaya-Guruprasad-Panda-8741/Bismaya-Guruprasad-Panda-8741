@@ -109,7 +109,7 @@
 🎮 Tic-Tac-Toe (Flask)       ██████████████  100%  - Python Flask Web Game with Dashboard
 🕵️ Next Security Project     ░░░░░░░░░░░░░░    0%  - Coming Soon...
 ```
-```
+
 <div align="center">
   ### 🖱️ AI-Powered Virtual Mouse Using Hand Gesture Recognition
 
@@ -128,7 +128,7 @@ A real-time virtual mouse controlled using hand gestures, developed collaborativ
 
   
 </div>
-```
+
 ---
 
 ## 🔝 Top Repositories
