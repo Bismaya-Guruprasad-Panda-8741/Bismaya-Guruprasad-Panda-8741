@@ -226,6 +226,6 @@ A real-time virtual mouse controlled using hand gestures, developed collaborativ
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&fontColor=00ff41&animation=twinkling" width="100%"/>
 
-**🔐 Securing the digital world — one line of code at a time.**
+**🔐 Securing the digital world — one line of code at a time..**
 
 </div>
